@@ -61,21 +61,8 @@ Después de completar el programa, planeo seguir aprendiendo y mejorando mis hab
 
 Si tienes alguna pregunta o comentario sobre mi trayectoria en el programa, no dudes en contactarme.
 
-*   **Correo Electrónico**: [Tu correo electrónico]
-*   **LinkedIn**: [Tu perfil de LinkedIn]
-*   **GitHub**: [Tu perfil de GitHub]
+*   **Editor Único:** Marlon Salazar Garcia
+*   **GitHub:** [MarlonSG](https://github.com/MarlonSG)
+*   **Correo electrónico:** Marlonsg220@gmail.com
 
 ¡Gracias por visitar mi repositorio!
-
-## Cómo usar este README
-
-1.  **Copia el texto anterior.**
-2.  **Crea un nuevo archivo llamado `README.md` en la raíz de tu repositorio.**
-3.  **Pega el texto copiado en el archivo `README.md`.**
-4.  **Reemplaza la información entre corchetes `[]` con tu propia información.**
-5.  **Personaliza el resto del contenido para que refleje tu experiencia y proyectos.**
-
-¡Espero que esto te ayude a crear un README completo y atractivo para tu repositorio!
-
-git config --global user.name "MarlonSG"
-git config --global user.email "marlonsg220@outlook.com"
